@@ -1,5 +1,5 @@
 ﻿/* 
- * In the program below, there are 10 exercises to be completed.
+ * In the program below, there are 6 exercises to be completed.
  * Some of the exercises will have some portion to uncomment as you work through them.  Read each 
  * exercse's instructions for specific lines to be uncommented.
  * 
